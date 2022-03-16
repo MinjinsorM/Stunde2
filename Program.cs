@@ -43,6 +43,7 @@ namespace Stunde2
                 string zeichenketteB = "Welt";
 
                 Console.WriteLine(zeichenketteA + zeichenketteB);
-            }
+            
     }
+
 
